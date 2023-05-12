@@ -1,0 +1,15 @@
+Advanced Thing: 
+1. Complex Object (#3)
+Example: LookAt PanzerGeometry1-1*
+It is a panzer 6. Yes, I actually made it myself!!! It is quite complicated because it is made of different shapes and I applied complex textures and bumpmaps to make it real. I am very picky with the detials of the panzer 6. It has almost every important thing on a real panzer 6, such as cannon, terret, wheels, tracks, armors, top gates, and so on. If you google it online, you will find the panzer I made is quite realistic.
+2. Complex Behavior (#2)
+Example: LookAt PanzerGeometry1-1*
+The panzer 6 rotate its terret and eject shells (bombs) that will travel in a projectile motion before it hits the ground.
+3. Particle System (#4)
+Example: LookAt PanzerGeometry1-1*
+The panzer 6 will fire and when the shell hits the ground, it will generate the particle effect as if the shell actually explode there.
+4. Dynamic Environment Map (#17)
+Example: Follow BalloonGeometry1-1*
+It is a military surveillance drone (or balloon) with a Dynamic Environment Map. The surveillance drone will reflect the whole town and send the surveillance data to the radar dish in the military base.
+5. Large Diversity (#13)
+My projects have all kinds of objects, such as natural elements (plants, trees, and grass), vehicles (bus and cars), panzers, buildings (houses and towers), playground (basketball and soccer), stopsigns, parking lot, amusement park objects...

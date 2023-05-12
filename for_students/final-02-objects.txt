@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. BasketGeometry1-1* - the basket in basketball court
+2. PanzerGeometry1-1* - a panzer 6, a german tank. Yes, I actually made one myself!!!
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. HouseGeometry1-1* - houses that I made in wb08
+4. CarGeometry2-1* - Vehicles that I made in wb08 (its a moving object so you might want to use follow instead of lookat)
+5. TreeGeometry1-1* - trees that I made in wb08
+6. GoalGeometry1-1* - Soccer goal on the soccer pitch 
+7. GrFerrisWheel-1* - amusement park facilities that I made in wb08
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- TowerGeometry1-1* - towers that I made in wb08
+- SoccerGeometry1-1* - soccer pitch
+- StopsignGeometry1-1* - a stop sign
+- BalloonGeometry1-1* - a surveillance balloon (its a moving object so you might want to use follow instead of lookat)
+
+At least one of each type of object:
+Building/structure: HouseGeometry1-1* (described above), TowerGeometry1-1* (described above) 
+Vehicle: CarGeomtry2-1* (described above), PanzerGeometry1-1* (described above)
+Natural Element: TreeGeometry1-1* (described above)
+
+Object loaded from a model file:
+Model: PlantGeometry-1* - loaded from Alien Plant.obj downloaded from the web, attribution in the attribution.txt
+
+An object with a shader that you wrote:
+ShaderObj: GrBulldozer-1* - I used the GrBulldozer I made in wb07 and wrote a simple shader to make a colorful texture
+
+Other Objects that you would like to note: none

@@ -1,0 +1,19 @@
+Three different behaviors that you made:
+1. GrFerrisWheel-1* - the rotating ferris wheel
+2. CarGeometry2-1* - the cars that are moving, turning, stopping at intersection, park in the parking lot, and then start moving again (like a state machine).
+3. PanzerGeometry1-1* - the tank will rotate its terret and fire
+
+At least one object is rideable / followable
+1. PanzerGeometry1-1* - you can follow and ride the terret when it rotate
+2. Carousel-0* - you can follow one of the horse
+3. BalloonGeometry1-1* - the surveillance balloon is rideable, it moves in circular motion in the sky
+
+One behavior that is not simple:
+Not simple: PanzerGeometry1-1* - the tank will rotate its terret and fire. The cannon of the tank will eject a shell (bomb)and the shell will travel in a "projectile motion". After the shell hits the ground, it will explode and leave a black hole on the ground
+
+Animated Articulated Figure:
+Articulated: Carousel-0* - the horse moves up and down while the entire carousel is spinning
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- CarGeometry2-1* - this behavior is also not simple and it also rideable. The cars that are moving, turning, stopping at intersection, and then start moving again (like a state machine).
+- GrDumbo-0* - this behavior is also an animated articulated figure. The dumbo spins while each horse moves up and down.

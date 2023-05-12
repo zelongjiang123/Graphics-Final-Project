@@ -1,0 +1,22 @@
+List all attributions here, this include "self-attributions":
+https://opengameart.org/content/asphalt-road-texture-free road2.jpg
+https://stock.adobe.com/search?k=outdoor+basketball+court basketballcourt1.jpg
+https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E7%AF%AE%E6%9D%BF%E5%9B%BE%E7%89%87&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=829223449,2582943377&os=3965827663,2505617536&simid=4172336243,714873817&pn=5&rn=1&di=7214885350303334401&ln=1905&fr=&fmq=1682262125027_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=1e&objurl=https%3A%2F%2Fpic.qiyeku.com%2FPhoto%2FU%2F2011%2F10%2F19%2F11%2F42190.95.gif&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MCwzLDIsNSwxLDYsNCw3LDgsOQ%3D%3D&ctd=1682263495944^3_1263X553%1 board1.jpg
+https://www.reddit.com/r/Cinema4D/comments/1ssjvz/need_help_making_a_basketball_hoop_stretch_move/ net.jpg
+https://www.freepik.com/premium-photo/green-soccer-field-football-field-top-view-with-realistic-grass-texture-realistic-football-pitch_32952780.htm soccer_pitch.jpg
+https://forum.warthunder.com/index.php?/topic/143512-tank-skinners-unite33/ panzer1.jpg
+https://www.deviantart.com/kevintinierme/art/Tank-Wheel-496380431 tank_wheel.jpg
+https://depositphotos.com/11275014/stock-photo-image-of-military-tank-wheel.html tank_track.jpg
+https://tanks-encyclopedia.com/ww2/germany/panzer-vi_tiger.php armor.png
+https://architextures.org/textures/554 grass1.jpg
+https://www.istockphoto.com/search/2/image?phrase=brick+floor floor1.jpg
+https://www.dreamstime.com/stock-image-orange-bricks-floor-pattern-texture-image34094561 floor2.jpg
+https://www.turbosquid.com/3d-models/alien-plant-3d-model-1904766 Alien Plants.obj
+https://www.textures.com/browse/stop/108359 stopsign.jpg
+https://stock.adobe.com/search?k=seamless+dirt+texture floor3.jpg
+
+self-attributions:
+final-car.js: I used my code in wb08 and I made several changes.
+final-parkobjects.js: I used my code in wb07 and I made several changes.
+final-bulldozer.js: I used my code in wb07 and I made several changes.
+final-buildings.js: I used my code in wb08 and I made several changes.
