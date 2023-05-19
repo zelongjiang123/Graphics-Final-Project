@@ -14,11 +14,11 @@
 
 ## Main files wrote/modified by me (Zelong Jiang):
 
-final-grtown.html, final-grtown.js, final-balloon.js, final-basketballcourt.js, final-blaster.js, final-buildings.js, final-bulldozer.js, final-car.js, final-fences.js, final-naturalelements.js, final-panzer6.js, final-parkobjects.js, final-road.js, final-shell.js, final-soccerfield.js, final-stopsign.js
+final-grtown.html, final-grtown.js, final-balloon.js, final-basketballcourt.js, final-blaster.js, final-buildings.js, final-bulldozer.js, final-car.js, final-fences.js, final-naturalelements.js, final-panzer6.js, final-parkobjects.js, final-road.js, final-shell.js, final-soccerfield.js, final-stopsign.js, shaders/final.fs, shaders/final.vs
 
 ## Main coding language:
 
-Javascript, HTML, CSS
+Javascript, HTML, CSS, GLSL (write shaders)
 
 ## Attributions:
 
